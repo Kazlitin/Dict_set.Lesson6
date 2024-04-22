@@ -3,7 +3,7 @@ my_list = ["appel", "banana", "pear", "peach", "coconut", "kiwi", "avocado"]
 print(my_list)
 print(my_list[0])
 print(my_list[-1])
-print(my_list[3:5])
+print(my_list[2:5])
 my_list[3] = "melon"
 print(my_list)
 #работа со словарями:
